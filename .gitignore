@@ -51,7 +51,6 @@ venv.bak/
 # mkdocs documentation
 /site
 
-
 # Python #
 *.py[cod]
 *$py.class
